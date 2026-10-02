@@ -52,7 +52,7 @@ Replace with plain language.
 
 ## Adverbs
 
-Kill all adverbs. No -ly words. No softeners, no intensifiers, no hedges.
+Remove filler adverbs: softeners, intensifiers, hedges. Use connective adverbs and conjunctions when they state the real relation between sentences. See the "Link sentences by their real logic" rule in [SKILL.md](../SKILL.md).
 
 Specific offenders:
 

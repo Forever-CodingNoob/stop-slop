@@ -1,5 +1,11 @@
 # Changelog
 
+## 2026-10-02
+
+### Changed
+
+- Limit the adverb ban to filler adverbs; allow connective adverbs and conjunctions that state the real relation between sentences.
+
 ## 2026-01-13
 
 ### Added

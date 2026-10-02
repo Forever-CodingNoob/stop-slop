@@ -12,7 +12,7 @@ Eliminate predictable AI writing patterns from prose.
 
 ## Core Rules
 
-1. **Cut filler phrases.** Remove throat-clearing openers, emphasis crutches, and all adverbs. See [references/phrases.md](references/phrases.md).
+1. **Cut filler phrases.** Remove throat-clearing openers, emphasis crutches, and filler adverbs (softeners, intensifiers, hedges). See [references/phrases.md](references/phrases.md).
 
 2. **Break formulaic structures.** Avoid binary contrasts, negative listings, dramatic fragmentation, rhetorical setups, false agency. See [references/structures.md](references/structures.md).
 
@@ -28,11 +28,20 @@ Eliminate predictable AI writing patterns from prose.
 
 8. **Cut quotables.** If it sounds like a pull-quote, rewrite it.
 
+9. **Link sentences by their real logic.** Use any conjunction or connective adverb that states a relation the sentences already have and helps the reader follow.
+
+Common relations: cause or result (so, because, since, therefore), contrast (but, though, however), sequence (then, after), addition (also). The list gives examples, not a limit.
+
+Put the word on the correct side of the relation, for example "so" before the result and "because" before the cause. Add no new relation or extra meaning. Leave unrelated sentences unlinked. "We moved offices in March, so we sold more subscriptions in April" is wrong unless the move caused the increase.
+
+Prefer a light join inside the sentence, such as "so", "but", or "then", to a sentence-initial connective such as "Therefore,", "However,", or "As a result,". Link only the pairs where the link helps the reader, and leave the other related pairs as plain sentences.
+
 ## Quick Checks
 
 Before delivering prose:
 
-- Any adverbs? Kill them.
+- Any filler adverbs (softeners, intensifiers, hedges)? Remove them.
+- Does each linking word state the real relation between the sentences it joins?
 - Any passive voice? Find the actor, make them the subject.
 - Inanimate thing doing a human verb ("the decision emerges")? Name the person.
 - Sentence starts with a Wh- word? Restructure it.

@@ -110,7 +110,7 @@ Every sentence needs a subject doing something. Passive voice hides the actor an
 | Pattern | Fix |
 |---------|-----|
 | Sentences starting with What, When, Where, Which, Who, Why, How | Restructure. Lead with the subject or the verb. |
-| Paragraphs starting with "So" | Start with content |
+| Paragraphs starting with filler "So, ..." that states no relation to the previous paragraph | Start with content. Keep "So" when the previous paragraph causes or supports this one. |
 | Sentences starting with "Look," | Remove |
 
 Wh- openers become a crutch. "What makes this hard is..." becomes "The constraint is..." or better, name the specific constraint.
@@ -131,4 +131,4 @@ Wh- openers become a crutch. "What makes this hard is..." becomes "The constrain
 | Pattern | Problem |
 |---------|---------|
 | Lazy extremes (every, always, never, everyone, everybody, nobody) | False authority. Use specifics instead of sweeping claims. |
-| All adverbs (-ly words, "really," "just," "literally," "genuinely," "honestly," "simply," "actually") | Empty emphasis. See phrases.md for full list. |
+| Filler adverbs (softeners, intensifiers, hedges: "really," "just," "literally," "genuinely," "honestly," "simply," "actually") | Empty emphasis. See phrases.md for full list. |

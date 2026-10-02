@@ -6,9 +6,9 @@
 > "Here's the thing: building products is hard. Not because the technology is complex. Because people are complex. Let that sink in."
 
 **After:**
-> "Building products is hard. Technology is manageable. People aren't."
+> "Building products is hard. Technology is manageable, but people aren't."
 
-**Changes:** Removed opener, binary contrast structure, and emphasis crutch. Direct statements.
+**Changes:** Removed opener, binary contrast structure, and emphasis crutch. Kept the real contrast with "but". Direct statements.
 
 ---
 
