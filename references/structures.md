@@ -64,6 +64,48 @@ These announce insight rather than deliver it.
 | "By the time X, I was Y." | Narrative template |
 | "X that isn't Y" | Indirect. Say "X is broken" |
 
+## Inflated Significance
+
+Claims that a thing matters, with no fact that shows it.
+
+| Pattern | Problem |
+|---------|---------|
+| "stands as a testament to" | Praise with no content |
+| "plays a pivotal role in" / "a key role" | Importance with no evidence |
+| "marks a turning point" / "represents a shift" | Change with no before and after |
+| "places her among" / "one of the leading" | Rank with no measure |
+| "remains a key landmark" | Status with no evidence |
+| "leaves a lasting legacy" / "an indelible mark" | Future with no evidence |
+
+**Instead:** Write the fact from the source that shows the importance. If the source has none, cut the sentence. Do not swap in a milder phrase that makes the same claim.
+
+## Shallow Analysis
+
+A clause added to a fact that tells the reader what the fact means.
+
+| Pattern | Problem |
+|---------|---------|
+| "..., recognising its place in the town's history" | Meaning with no source |
+| "..., giving the site a civic use" | Restates the fact as a benefit |
+| "..., reflecting ..." / "..., symbolizing ..." | Meaning with no source |
+| "..., highlighting its importance" / "..., underscoring ..." | Importance with no evidence |
+| "..., contributing to ..." / "..., fostering ..." | Effect with no evidence |
+
+**Instead:** Cut the clause. If the source states the effect, write it as its own sentence.
+
+## Stock Conclusions
+
+A closing line built from a template.
+
+| Pattern | Problem |
+|---------|---------|
+| "In summary," / "In conclusion," / "Overall," | Restates what the reader just read |
+| "The building's history covers two periods: ..." | Restates the facts as a summary |
+| "Despite its [praise], X faces challenges..." followed by "The future looks bright" | A challenges formula that ends in optimism with no facts |
+| "... remains one of the region's key events" | Importance with no evidence |
+
+**Instead:** End on the last new fact or the next step for the reader.
+
 ## False Agency
 
 Giving inanimate things human verbs. Complaints don't "become" fixes. Bets don't "live or die." Decisions don't "emerge." A person does something to make those things happen. AI loves this because it avoids naming the actor.

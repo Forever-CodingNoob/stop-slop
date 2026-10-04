@@ -33,13 +33,15 @@ stop-slop/
 
 ## What it catches
 
-**Banned phrases** - Throat-clearing openers, emphasis crutches, business jargon, filler adverbs, vague declaratives, meta-commentary. Use connectives when they follow the logic. See `references/phrases.md`.
+**Banned phrases** - Throat-clearing openers, emphasis crutches, business jargon, AI vocabulary, filler adverbs, vague declaratives, vague attributions, meta-commentary, chatbot leftovers. Use connectives when they follow the logic. See `references/phrases.md`.
 
-**Structural clichés** - Binary contrasts, negative listings, dramatic fragmentation, rhetorical setups, false agency, narrator-from-a-distance voice, passive voice. See `references/structures.md`.
+**Structural clichés** - Binary contrasts, negative listings, dramatic fragmentation, rhetorical setups, inflated significance, shallow analysis, stock conclusions, false agency, narrator-from-a-distance voice, passive voice. See `references/structures.md`.
 
 **Sentence-level rules** - No Wh- sentence starters, no em dashes, no staccato fragmentation, no lazy extremes, active voice by default.
 
 **Fact guardrails** - Rewrites add no fact, name, number, or quote that the source or the user did not supply, keep qualifiers that limit a claim, and leave quotations and discussed phrases unchanged.
+
+AI vocabulary, chatbot leftovers, vague attributions, inflated significance, shallow analysis, and stock conclusions adapt patterns from [Wikipedia:Signs of AI writing](https://en.wikipedia.org/wiki/Wikipedia:Signs_of_AI_writing).
 
 ## Scoring
 
@@ -54,6 +56,10 @@ Rate 1-10 on each dimension:
 | Density | Anything cuttable? |
 
 Below 35/50: revise.
+
+## Credits
+
+AI vocabulary, chatbot leftovers, vague attributions, inflated significance, shallow analysis, and stock conclusions adapt patterns from [Wikipedia:Signs of AI writing](https://en.wikipedia.org/wiki/Wikipedia:Signs_of_AI_writing), an advice page from WikiProject AI Cleanup. Wikipedia text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 ## Author
 

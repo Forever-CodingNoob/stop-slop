@@ -5,6 +5,8 @@
 ### Added
 
 - Rule 10 "Keep the facts": a rewrite adds no fact, name, number, date, quote, or citation that the source or the user did not supply, and keeps what each claim says. Matching quick check.
+- Rule 4 now covers claims of importance and meaning clauses; rule 10 covers unnamed sources. New patterns, adapted from Wikipedia:Signs of AI writing: inflated significance, shallow analysis, and stock conclusions (references/structures.md), and vague attributions (references/phrases.md). Matching quick checks and README credit.
+- AI vocabulary and chatbot leftovers (references/phrases.md), adapted from Wikipedia:Signs of AI writing. Matching rule 1 text and quick checks.
 
 ### Changed
 

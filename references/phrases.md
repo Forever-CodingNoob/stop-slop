@@ -42,13 +42,40 @@ Replace with plain language.
 | Unpack (analysis) | Explain, examine |
 | Lean into | Accept, embrace |
 | Landscape (context) | Situation, field |
-| Game-changer | Significant, important |
+| Game-changer | State what changed |
 | Double down | Commit, increase |
 | Deep dive | Analysis, examination |
 | Take a step back | Reconsider |
 | Moving forward | Next, from now |
 | Circle back | Return to, revisit |
-| On the same page | Aligned, agreed |
+| On the same page | Agreed |
+
+## AI Vocabulary
+
+Language models use these words more often than people do. Use the plain word.
+
+| Avoid | Use instead |
+|-------|-------------|
+| Additionally (at the start of a sentence) | "also" inside the sentence |
+| Align with | Match, fit |
+| Bolster | Strengthen, support |
+| Crucial, pivotal | Say what depends on it |
+| Delve into | Examine, look at |
+| Enduring | Say how long it lasted |
+| Enhance | Improve |
+| Foster | Build, encourage |
+| Garner | Get, win |
+| Highlight, underscore, showcase (as figurative verbs) | Show |
+| Interplay | Interaction |
+| Intricate | Name the parts |
+| Meticulous | Careful |
+| Robust | Name the property |
+| Tapestry (as an abstract noun) | Name the parts |
+| Testament to | State the fact |
+| Valuable | Say what it is worth |
+| Vibrant | Name the trait |
+| Serves as, stands as, functions as, represents (meaning "is") | Is |
+| Boasts, features (meaning "has") | Has |
 
 ## Adverbs
 
@@ -98,6 +125,22 @@ Remove self-referential asides. Let the essay move.
 - "As we'll see..."
 - "I want to explore..."
 
+## Chatbot Leftovers
+
+Lines from a chat reply that end up in the delivered text. Every sentence of the delivered text speaks to its readers. Delete lines that speak to the requester.
+
+- "I hope this helps"
+- "Certainly!" / "Of course!"
+- "You're absolutely right!"
+- "Would you like me to..."
+- "Let me know if..."
+- "If you send X, I can add Y"
+- "As of my last knowledge update"
+- "While specific details are limited"
+- "Based on available information"
+
+If the source lacks a fact, leave the fact out (rule 10).
+
 ## Performative Emphasis
 
 False intimacy or manufactured sincerity:
@@ -126,3 +169,15 @@ Sentences that announce importance without naming the specific thing. Kill these
 - "The consequences are real"
 
 If a sentence says something is important/deep/structural without showing the specific thing, cut it or replace it with the specific thing.
+
+## Vague Attributions
+
+Claims credited to an unnamed group. The credit makes an unsourced claim look checked.
+
+- "Experts say" / "Experts argue"
+- "Critics have praised"
+- "Observers have noted"
+- "Industry reports suggest"
+- "Studies show" (with no study named)
+
+**Instead:** Name the source if the text names it. If the text names no source, cut the claim or ask the author for the source. Cutting only the attribution turns an opinion into a fact, so keep or cut the claim as a whole.
