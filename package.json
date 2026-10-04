@@ -1,0 +1,11 @@
+{
+  "name": "stop-slop",
+  "version": "1.0.0",
+  "description": "A skill for removing AI tells from prose.",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Forever-CodingNoob/stop-slop.git"
+  },
+  "omp": {}
+}

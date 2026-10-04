@@ -15,6 +15,7 @@
 - Leave quoted text, titles, proper names, and discussed phrases unchanged.
 - Fix examples 1, 2, and 3 so the rewrites keep the source's claims. Remove the em dash from example 4.
 - Add "Y, not X" to the binary contrasts. Drop the negation from example 5, and remove the form from the skill's own text.
+- Move the skill to `skills/stop-slop/` and add `package.json` with an `omp` manifest, so `omp plugin install github:Forever-CodingNoob/stop-slop` installs it.
 
 ## 2026-10-02
 

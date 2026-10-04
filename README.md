@@ -12,30 +12,34 @@ AI writing has patterns. Predictable phrases, structures, rhythms. This skill te
 
 ```
 stop-slop/
-├── SKILL.md              # Core instructions
-├── references/
-│   ├── phrases.md        # Phrases to remove
-│   ├── structures.md     # Structural patterns to avoid
-│   └── examples.md       # Before/after transformations
-├── README.md
-└── LICENSE
+|-- skills/stop-slop/
+|   |-- SKILL.md          # Core instructions
+|   `-- references/
+|       |-- phrases.md    # Phrases to remove
+|       |-- structures.md # Structural patterns to avoid
+|       `-- examples.md   # Before/after transformations
+|-- package.json          # omp plugin manifest
+|-- README.md
+`-- LICENSE
 ```
 
 ## Quick start
 
-**Claude Code:** Add this folder as a skill.
+**oh-my-pi (omp):** Run `omp plugin install github:Forever-CodingNoob/stop-slop`.
 
-**Claude Projects:** Upload `SKILL.md` and reference files to project knowledge.
+**Claude Code:** Add the `skills/stop-slop` folder as a skill.
 
-**Custom instructions:** Copy core rules from `SKILL.md`.
+**Claude Projects:** Upload `skills/stop-slop/SKILL.md` and the files in `skills/stop-slop/references/` to project knowledge.
 
-**API calls:** Include `SKILL.md` in your system prompt. Reference files load on demand.
+**Custom instructions:** Copy core rules from `skills/stop-slop/SKILL.md`.
+
+**API calls:** Include `skills/stop-slop/SKILL.md` in your system prompt. Reference files load on demand.
 
 ## What it catches
 
-**Banned phrases** - Throat-clearing openers, emphasis crutches, business jargon, AI vocabulary, filler adverbs, vague declaratives, vague attributions, meta-commentary, chatbot leftovers. Use connectives when they follow the logic. See `references/phrases.md`.
+**Banned phrases** - Throat-clearing openers, emphasis crutches, business jargon, AI vocabulary, filler adverbs, vague declaratives, vague attributions, meta-commentary, chatbot leftovers. Use connectives when they follow the logic. See `skills/stop-slop/references/phrases.md`.
 
-**Structural clichés** - Binary contrasts, negative listings, dramatic fragmentation, rhetorical setups, inflated significance, shallow analysis, stock conclusions, false agency, narrator-from-a-distance voice, passive voice. See `references/structures.md`.
+**Structural cliches** - Binary contrasts, negative listings, dramatic fragmentation, rhetorical setups, inflated significance, shallow analysis, stock conclusions, false agency, narrator-from-a-distance voice, passive voice. See `skills/stop-slop/references/structures.md`.
 
 **Sentence-level rules** - No Wh- sentence starters, no em dashes, no staccato fragmentation, no lazy extremes, active voice by default.
 
