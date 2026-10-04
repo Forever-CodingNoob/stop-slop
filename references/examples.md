@@ -6,9 +6,9 @@
 > "Here's the thing: building products is hard. Not because the technology is complex. Because people are complex. Let that sink in."
 
 **After:**
-> "Building products is hard. Technology is manageable, but people aren't."
+> "Building products is hard because people are complex."
 
-**Changes:** Removed opener, binary contrast structure, and emphasis crutch. Kept the real contrast with "but". Direct statements.
+**Changes:** Removed opener, binary contrast structure, and emphasis crutch. Kept the source's cause with "because" and dropped the negation.
 
 ---
 
@@ -17,10 +17,10 @@
 **Before:**
 > "It turns out that most teams struggle with alignment. The uncomfortable truth is that nobody wants to admit they're confused. And that's okay."
 
-**After:**
-> "Teams struggle with alignment. Nobody admits confusion."
+**After (not final until the author confirms "nobody"):**
+> "Most teams struggle with alignment. Nobody wants to admit they're confused."
 
-**Changes:** Cut hedging ("most"), removed throat-clearing phrases, deleted permission-granting ending.
+**Changes:** Removed throat-clearing phrases and the permission-granting ending. Kept "most" because it limits the claim. "Nobody" is a lazy extreme, but only the author knows the real scope, so ask the author instead of guessing.
 
 ---
 
@@ -30,9 +30,9 @@
 > "In today's fast-paced landscape, we need to lean into discomfort and navigate uncertainty with clarity. This matters because your competition isn't waiting."
 
 **After:**
-> "Move faster. Your competition is."
+> "We need to accept discomfort and handle uncertainty clearly, because your competition isn't waiting."
 
-**Changes:** Eliminated jargon entirely. Core message in six words.
+**Changes:** Replaced jargon with plain words. Cut the "In today's" opener and the "This matters because" crutch, and kept the real cause with "because". Kept the source's instruction instead of writing a new one.
 
 ---
 
@@ -42,7 +42,7 @@
 > "Speed. Quality. Cost. You can only pick two. That's it. That's the tradeoff."
 
 **After:**
-> "Speed, quality, cost—pick two."
+> "Speed, quality, cost: pick two."
 
 **Changes:** Single sentence. No performative emphasis.
 
@@ -54,6 +54,6 @@
 > "What if I told you that the best teams don't optimize for productivity? Here's what I mean: they optimize for learning. Think about it."
 
 **After:**
-> "The best teams optimize for learning, not productivity."
+> "The best teams optimize for learning."
 
-**Changes:** Direct claim. No rhetorical scaffolding.
+**Changes:** Direct claim. No rhetorical scaffolding. Dropped the negation.

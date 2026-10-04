@@ -52,7 +52,7 @@ Replace with plain language.
 
 ## Adverbs
 
-Remove filler adverbs: softeners, intensifiers, hedges. Use connective adverbs and conjunctions when they state the real relation between sentences. See the "Link sentences by their real logic" rule in [SKILL.md](../SKILL.md).
+Remove filler adverbs: softeners, intensifiers, hedges. Use connective adverbs and conjunctions when they state the real relation between sentences. See the "Link sentences by their real logic" rule in [SKILL.md](../SKILL.md). Keep one qualifier that limits a claim ("most", "often", "may"), and cut stacked qualifiers to one.
 
 Specific offenders:
 
@@ -84,7 +84,7 @@ Also cut these filler phrases:
 
 ## Meta-Commentary
 
-Remove self-referential asides. The essay should move, not announce its own structure.
+Remove self-referential asides. Let the essay move.
 
 - "Hint:"
 - "Plot twist:" / "Spoiler:"

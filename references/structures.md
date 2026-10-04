@@ -17,6 +17,7 @@ These create false drama. State the point directly.
 | "doesn't mean X, but actually Y" | Negation-then-assertion crutch |
 | "is about X but not Y" | False distinction |
 | "not just X but also Y" | Additive hedge |
+| "Y, not X" | Same contrast packed into one clause |
 
 **Instead:** State Y directly. "The problem is Y." "Y matters here." Drop the negation entirely.
 
@@ -79,6 +80,8 @@ Giving inanimate things human verbs. Complaints don't "become" fixes. Bets don't
 
 **Instead:** Name the human. "The team fixed it that week" beats "the complaint becomes a fix." If no specific person fits, use "you" to put the reader in the seat.
 
+**Not a ban:** a verb that reports what the thing displays or does is fine: "the report shows a 12% drop", "the form submits". Flag the verb when it states a conclusion or decision that a person made: "the data tells us to cut prices" means someone read the data and decided.
+
 ## Narrator-from-a-Distance
 
 Floating above the scene instead of putting the reader in it.
@@ -94,7 +97,7 @@ Floating above the scene instead of putting the reader in it.
 
 ## Passive Voice
 
-Every sentence needs a subject doing something. Passive voice hides the actor and drains energy.
+Passive voice hides the actor and drains energy.
 
 | Pattern | Fix |
 |---------|-----|
@@ -104,6 +107,8 @@ Every sentence needs a subject doing something. Passive voice hides the actor an
 | "The decision was reached" | Name who decided |
 
 **Instead:** Find the actor. Put them at the front of the sentence.
+
+**Not a ban:** use the passive when the actor is unknown, does not matter, or is withheld on purpose ("the server was restarted at 03:00"), or when the object is the topic of the paragraph. In all other cases, flag the passive and name the actor.
 
 ## Sentence Starters to Avoid
 

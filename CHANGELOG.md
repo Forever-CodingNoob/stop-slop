@@ -1,5 +1,19 @@
 # Changelog
 
+## 2026-10-04
+
+### Added
+
+- Rule 10 "Keep the facts": a rewrite adds no fact, name, number, date, quote, or citation that the source or the user did not supply, and keeps what each claim says. Matching quick check.
+
+### Changed
+
+- Keep one qualifier that limits a claim; cut stacked qualifiers to one.
+- Allow the passive when the actor is unknown, does not matter, or is withheld, or when the object is the topic. Allow verbs that state what a thing itself does.
+- Leave quoted text, titles, proper names, and discussed phrases unchanged.
+- Fix examples 1, 2, and 3 so the rewrites keep the source's claims. Remove the em dash from example 4.
+- Add "Y, not X" to the binary contrasts. Drop the negation from example 5, and remove the form from the skill's own text.
+
 ## 2026-10-02
 
 ### Changed

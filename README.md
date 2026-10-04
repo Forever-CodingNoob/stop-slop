@@ -37,7 +37,9 @@ stop-slop/
 
 **Structural clichés** - Binary contrasts, negative listings, dramatic fragmentation, rhetorical setups, false agency, narrator-from-a-distance voice, passive voice. See `references/structures.md`.
 
-**Sentence-level rules** - No Wh- sentence starters, no em dashes, no staccato fragmentation, no lazy extremes, active voice required.
+**Sentence-level rules** - No Wh- sentence starters, no em dashes, no staccato fragmentation, no lazy extremes, active voice by default.
+
+**Fact guardrails** - Rewrites add no fact, name, number, or quote that the source or the user did not supply, keep qualifiers that limit a claim, and leave quotations and discussed phrases unchanged.
 
 ## Scoring
 
